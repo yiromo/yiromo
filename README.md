@@ -1,9 +1,11 @@
 ### 🚀 Tech Stack & Expertise:
 - **Languages & Frameworks**:  
   - Python: FastAPI, Django  
-  - Java: Java Spring  
+  - Java: Java Spring
+  - Go (Golang)
 - **Databases**:  
-  - SQL, NoSQL (e.g., MongoDB, PostgreSQL)  
+  - SQL, NoSQL (e.g., MongoDB, PostgreSQL)
+  - Vector Databases: Qdrant, FAISS, Milvus
 - **Messaging & Caching**:  
   - Kafka, RabbitMQ, Redis  
 - **DevOps & Infrastructure**:  
@@ -12,6 +14,8 @@
 - **Monitoring & Logging**:  
   - Grafana, ELK Stack (Elasticsearch, Logstash, Kibana)  
 - **CI/CD & Automation**:  
-  - GitLab CI/CD, GitHub Actions, Jenkins  
+  - GitLab CI/CD, GitHub Actions, Jenkins
+- **AI & NLP**:
+  - Vectorization, RAG, LLM tuning, BERT, etc. 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=yiromo&color=blueviolet)](https://github.com/yiromo)
