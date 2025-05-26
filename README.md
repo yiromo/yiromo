@@ -4,7 +4,7 @@
 - **Languages & Frameworks:**  
   - Python: FastAPI, Django  
   - Go (Golang)  
-  - Java: Java Spring  
+  - Java: Java Spring & Java Spring Boot
 - **Databases:**  
   - SQL, NoSQL (e.g., MongoDB, PostgreSQL)  
   - Vector Databases: Qdrant, FAISS, Milvus  
